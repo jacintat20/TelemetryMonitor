@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+dist/
+
+# .NET build outputs & IDE settings
+bin/
+obj/
+.vs/
+.vscode/
+
+# Logs
+*.log
